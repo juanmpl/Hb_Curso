@@ -1,0 +1,1109 @@
+2015-02-17 19:03:47,429 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.framework:habil:0.0.1-SNAPSHOT @ C:\w\Curso\habil\pom.xml.
+2015-02-17 19:03:55,778 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:03:55,789 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:03:55,794 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:03:55,795 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Curso\habil\src\test\resources
+2015-02-17 19:04:02,801 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:04:02,810 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:04:02,812 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:04:02,813 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Curso\habil\src\test\resources
+2015-02-17 19:12:28,576 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:12:29,866 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:14:08,612 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:08,727 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-commons/src/main/java
+2015-02-17 19:14:08,728 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-commons/src/main/resources
+2015-02-17 19:14:08,729 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-commons/src/test/java
+2015-02-17 19:14:08,729 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-commons/src/test/resources
+2015-02-17 19:14:10,454 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:10,896 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:11,159 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:11,161 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:14:11,163 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:11,165 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:14:12,449 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:14:12,468 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:12,667 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:13,990 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:13,992 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:14:13,994 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:13,995 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:14:14,103 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:14:15,056 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:15,057 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:14:15,059 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:14:15,061 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:11,845 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:18:11,991 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-model/src/main/java
+2015-02-17 19:18:11,991 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-model/src/main/resources
+2015-02-17 19:18:11,992 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-model/src/test/java
+2015-02-17 19:18:11,993 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-model/src/test/resources
+2015-02-17 19:18:12,500 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:18:12,664 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:12,666 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:12,668 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:12,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:13,364 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:18:13,803 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:13,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:13,806 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:13,807 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:13,885 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:18:14,062 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:18:14,192 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:18:15,537 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:15,538 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:15,569 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:15,570 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:15,603 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:15,604 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:18:15,606 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:18:15,607 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:25,595 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:20:25,761 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-business/src/main/java
+2015-02-17 19:20:25,762 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-business/src/main/resources
+2015-02-17 19:20:25,762 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-business/src/test/java
+2015-02-17 19:20:25,763 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-business/src/test/resources
+2015-02-17 19:20:26,201 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:20:26,320 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:26,321 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:26,323 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:26,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:26,405 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:20:26,507 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:20:26,605 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:20:26,703 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:20:27,056 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:20:27,980 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:27,984 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:27,986 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:27,987 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:28,001 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:28,003 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:28,007 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:28,009 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:28,024 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:28,026 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:20:28,028 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:20:28,029 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:25,603 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-17 19:21:25,724 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-test/src/main/java
+2015-02-17 19:21:25,724 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-test/src/main/resources
+2015-02-17 19:21:25,725 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hb-curso-test/src/test/java
+2015-02-17 19:21:25,725 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hb-curso-test/src/test/resources
+2015-02-17 19:21:26,239 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:21:26,383 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:21:26,495 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:21:26,613 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:21:26,749 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-17 19:21:27,099 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:27,101 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:27,103 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:27,104 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,162 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-17 19:21:28,168 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,174 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,191 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,193 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,198 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,199 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,209 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,210 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:28,212 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:28,213 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:29,243 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:29,245 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:21:29,248 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:21:29,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:24:06,287 [Worker-20] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1742) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2178) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-17 19:25:10,147 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,150 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,152 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,153 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Curso\habil\src\test\resources
+2015-02-17 19:25:10,745 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,747 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,748 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,759 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,761 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,763 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,776 [Worker-15] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1742) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2178) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-17 19:25:10,790 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,792 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:10,793 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:10,796 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:13,958 [Worker-22] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 10 (position: TEXT seen ...</junit.version>\r\n  </properties\r\n  \r\n<... @23:2) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1742) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2178) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-17 19:25:23,273 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:25:23,401 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:23,403 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:25:23,404 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:25:23,406 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:25,764 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.framework:habil:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\habil\pom.xml.
+2015-02-17 19:32:30,157 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:32:30,841 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.framework:habil:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\habil\pom.xml.
+2015-02-17 19:32:33,096 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:33,111 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:33,120 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:33,122 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-17 19:32:34,152 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.framework:habil:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\habil\pom.xml.
+2015-02-17 19:32:36,174 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:32:36,311 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:36,313 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:36,315 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:36,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:36,520 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:32:36,630 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:36,632 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:36,635 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:36,637 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:36,912 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:32:37,039 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:37,042 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:37,044 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:37,046 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:37,127 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:32:37,350 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:32:37,723 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:32:38,276 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:32:38,915 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-17 19:32:39,181 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:39,183 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:39,185 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:39,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:39,937 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.framework:habil:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\habil\pom.xml.
+2015-02-17 19:32:40,429 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,333 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,335 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,337 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,407 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,418 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,420 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,461 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,467 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:42,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:42,971 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-17 19:32:43,247 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-17 19:32:43,438 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-17 19:32:43,442 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\hb-curso-patern\pom.xml.
+2015-02-17 19:32:43,634 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-17 19:32:45,412 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,414 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,417 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-17 19:32:45,588 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,590 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,626 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,647 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,649 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,651 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,669 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,671 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,673 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,675 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,693 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,695 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 19:32:45,697 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-17 19:32:45,699 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:18:46,880 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:46,935 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:18:46,939 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:46,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-24 21:18:50,878 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:50,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:18:50,884 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:50,888 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:18:51,160 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:51,189 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:18:51,194 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:18:51,200 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:23:28,719 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\pom.xml.
+2015-02-24 21:23:31,380 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\pom.xml.
+2015-02-24 21:39:30,220 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\pom.xml.
+2015-02-24 21:39:30,826 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\pom.xml.
+2015-02-24 21:40:03,983 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:03,987 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:03,990 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:03,991 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-24 21:40:04,730 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,736 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,738 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,740 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,768 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,771 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,773 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,776 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,789 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,792 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,794 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,796 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,822 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,824 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:04,826 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:04,828 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:25,785 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\hb-curso-patern\pom.xml.
+2015-02-24 21:40:56,662 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-patern:0.0.1-SNAPSHOT @ C:\w\Hb_Curso\hb-curso-patern\pom.xml.
+2015-02-24 21:40:58,370 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-test\pom.xml.
+2015-02-24 21:40:58,557 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-business\pom.xml.
+2015-02-24 21:40:58,724 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-model\pom.xml.
+2015-02-24 21:40:58,871 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.curso.habil:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Curso\hb-curso-patern\hb-curso-commons\pom.xml.
+2015-02-24 21:40:59,302 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:59,306 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:40:59,309 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:40:59,311 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,174 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,176 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,178 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,182 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,194 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,195 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,199 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,201 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,218 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,221 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:41:01,225 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:41:01,226 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:42:00,685 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Hb_Curso\hb-curso-patern
+2015-02-24 21:42:00,685 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-02-24 21:42:10,886 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Hb_Curso\hb-curso-patern
+2015-02-24 21:42:10,886 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:45:09,384 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons
+2015-02-24 21:45:09,384 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:48:59,107 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Hb_Curso\habil
+2015-02-24 21:48:59,107 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:49:05,398 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:49:05,406 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:49:05,408 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:49:05,409 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-24 21:49:13,927 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons
+2015-02-24 21:49:13,927 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:49:57,717 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.pom
+2015-02-24 21:49:58,153 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.pom
+2015-02-24 21:49:58,420 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.pom
+2015-02-24 21:49:58,663 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.pom
+2015-02-24 21:49:58,759 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2015-02-24 21:49:59,071 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2015-02-24 21:49:59,193 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.4.RELEASE/spring-beans-4.1.4.RELEASE.pom
+2015-02-24 21:49:59,807 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.4.RELEASE/spring-beans-4.1.4.RELEASE.pom
+2015-02-24 21:49:59,938 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,226 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,335 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,542 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,633 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.4.RELEASE/spring-context-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,834 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.4.RELEASE/spring-context-4.1.4.RELEASE.pom
+2015-02-24 21:50:00,936 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.4.RELEASE/spring-aop-4.1.4.RELEASE.pom
+2015-02-24 21:50:01,456 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.4.RELEASE/spring-aop-4.1.4.RELEASE.pom
+2015-02-24 21:50:01,589 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.4.RELEASE/spring-expression-4.1.4.RELEASE.pom
+2015-02-24 21:50:02,455 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.4.RELEASE/spring-expression-4.1.4.RELEASE.pom
+2015-02-24 21:50:02,794 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.jar
+2015-02-24 21:50:05,789 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-model
+2015-02-24 21:50:05,789 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:50:42,751 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.jar
+2015-02-24 21:50:42,843 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.jar
+2015-02-24 21:51:15,298 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.jar
+2015-02-24 21:51:15,383 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2015-02-24 21:51:17,836 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2015-02-24 21:51:17,938 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.4.RELEASE/spring-beans-4.1.4.RELEASE.jar
+2015-02-24 21:51:24,059 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.4.RELEASE/spring-beans-4.1.4.RELEASE.jar
+2015-02-24 21:51:24,142 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2015-02-24 21:51:27,182 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2015-02-24 21:51:27,262 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2015-02-24 21:51:30,050 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2015-02-24 21:51:30,140 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.4.RELEASE/spring-context-4.1.4.RELEASE.jar
+2015-02-24 21:51:40,285 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.4.RELEASE/spring-context-4.1.4.RELEASE.jar
+2015-02-24 21:51:40,363 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.4.RELEASE/spring-aop-4.1.4.RELEASE.jar
+2015-02-24 21:51:42,625 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.4.RELEASE/spring-aop-4.1.4.RELEASE.jar
+2015-02-24 21:51:42,705 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.4.RELEASE/spring-expression-4.1.4.RELEASE.jar
+2015-02-24 21:51:44,164 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.4.RELEASE/spring-expression-4.1.4.RELEASE.jar
+2015-02-24 21:52:12,587 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-business
+2015-02-24 21:52:12,587 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:52:43,372 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-test
+2015-02-24 21:52:43,372 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:53:35,778 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-parent
+2015-02-24 21:53:35,778 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 21:54:47,017 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,024 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,025 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources
+2015-02-24 21:54:47,270 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,272 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,274 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,276 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,286 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,288 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,291 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,293 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,311 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,313 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,314 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,322 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,354 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,356 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:54:47,357 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-24 21:54:47,359 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-24 21:55:19,118 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-parent
+2015-02-24 21:55:19,119 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-24 22:02:50,280 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\w\Bitacora\hb-curso-parent-master\hb-curso-parent
+2015-02-24 22:02:50,281 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-27 21:34:49,929 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-commons:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\pom.xml.
+2015-02-27 21:34:51,046 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-commons/src/main/java
+2015-02-27 21:34:51,047 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-commons/src/test/java
+2015-02-27 21:34:51,198 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2015-02-27 21:34:52,094 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-commons:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\pom.xml.
+2015-02-27 21:34:52,555 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:34:52,558 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\main\resources
+2015-02-27 21:34:52,561 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:34:52,562 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\test\resources
+2015-02-27 21:34:53,694 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:34:53,698 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\main\resources
+2015-02-27 21:34:53,705 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:34:53,707 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\test\resources
+2015-02-27 21:35:49,547 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-model:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\pom.xml.
+2015-02-27 21:35:49,808 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-model/src/main/java
+2015-02-27 21:35:49,808 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-model/src/test/java
+2015-02-27 21:35:49,937 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-02-27 21:35:50,486 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-model:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\pom.xml.
+2015-02-27 21:35:50,669 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:35:50,670 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\main\resources
+2015-02-27 21:35:50,673 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:35:50,674 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\test\resources
+2015-02-27 21:35:51,625 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-model:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\pom.xml.
+2015-02-27 21:35:51,872 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:35:51,873 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\main\resources
+2015-02-27 21:35:51,880 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:35:51,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\test\resources
+2015-02-27 21:36:24,445 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-business:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\pom.xml.
+2015-02-27 21:36:24,566 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-business/src/main/java
+2015-02-27 21:36:24,567 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitacora-business/src/test/java
+2015-02-27 21:36:24,625 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-02-27 21:36:25,053 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-business:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\pom.xml.
+2015-02-27 21:36:25,217 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:36:25,218 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\main\resources
+2015-02-27 21:36:25,220 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:36:25,221 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\test\resources
+2015-02-27 21:36:25,505 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:bitacora-business:0.0.1-SNAPSHOT @ C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\pom.xml.
+2015-02-27 21:36:26,287 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:36:26,288 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\main\resources
+2015-02-27 21:36:26,290 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:36:26,291 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\test\resources
+2015-02-27 21:44:43,341 [main] ERROR o.e.m2e.editor.pom.MavenPomEditor - Cannot determine URI for '/hb-curso-parent/hb-curso-parent/pom.xml'.
+org.eclipse.ui.PartInitException: Cannot determine URI for '/hb-curso-parent/hb-curso-parent/pom.xml'.
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3252) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3265) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.init(StructuredTextEditor.java:2620) ~[org.eclipse.wst.sse.ui_1.3.300.v201404240319.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:239) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:325) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:213) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:308) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addSourcePage(MavenPomEditor.java:621) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addPages(MavenPomEditor.java:374) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.createPages(FormEditor.java:138) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:362) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:141) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:327) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:869) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:120) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:337) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:258) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:127) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:983) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:662) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1250) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer$1.handleEvent(LazyStackRenderer.java:68) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374) [org.eclipse.emf.common_2.10.1.v20140901-1043.jar:na]
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:171) [org.eclipse.e4.ui.model.workbench_1.1.0.v20140512-1820.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1251) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1599) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1550) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1520) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1645) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4333) [org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:175) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:390) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:331) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:637) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.ErrorWizardPage.performFinish(ErrorWizardPage.java:162) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:468) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.window.Window.open(Window.java:808) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:187) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:202) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:396) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:474) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:197) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/hb-curso-parent/hb-curso-parent/pom.xml'.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:238) ~[org.eclipse.core.filebuffers_3.5.400.v20140127-1516.jar:na]
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112) ~[org.eclipse.core.filebuffers_3.5.400.v20140127-1516.jar:na]
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559) ~[org.eclipse.ui.editors_3.8.200.v20140401-1310.jar:na]
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478) ~[org.eclipse.ui.editors_3.8.200.v20140401-1310.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4233) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480) ~[org.eclipse.ui.editors_3.8.200.v20140401-1310.jar:na]
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:169) ~[org.eclipse.ui.editors_3.8.200.v20140401-1310.jar:na]
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.doSetInput(StructuredTextEditor.java:1943) ~[org.eclipse.wst.sse.ui_1.3.300.v201404240319.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3220) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$13.run(WorkbenchWindow.java:2157) ~[org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2153) ~[org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3238) ~[org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	... 139 common frames omitted
+2015-02-27 21:44:44,085 [main] ERROR o.e.m.editor.pom.MavenPomEditorPage - Resource '/hb-curso-parent/hb-curso-parent/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/hb-curso-parent/hb-curso-parent/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:1039) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.doLoadData(MavenPomEditorPage.java:274) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.setActive(MavenPomEditorPage.java:226) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.pageChange(FormEditor.java:486) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.pageChange(MavenPomEditor.java:397) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.setActivePage(MultiPageEditorPart.java:1101) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.setActivePage(FormEditor.java:603) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:366) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:141) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:327) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:869) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:120) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:337) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:258) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:127) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:983) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:662) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1250) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer$1.handleEvent(LazyStackRenderer.java:68) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374) [org.eclipse.emf.common_2.10.1.v20140901-1043.jar:na]
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:171) [org.eclipse.e4.ui.model.workbench_1.1.0.v20140512-1820.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1251) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1599) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1550) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1520) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1645) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4333) [org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:175) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:390) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:331) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:637) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.ErrorWizardPage.performFinish(ErrorWizardPage.java:162) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:468) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.window.Window.open(Window.java:808) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:187) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:202) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:396) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:474) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:197) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-02-27 21:44:44,093 [main] ERROR o.e.m.editor.pom.MavenPomEditorPage - Resource '/hb-curso-parent/hb-curso-parent/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/hb-curso-parent/hb-curso-parent/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:1039) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.doLoadData(MavenPomEditorPage.java:274) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.setActive(MavenPomEditorPage.java:226) [org.eclipse.m2e.editor_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.setActivePage(FormEditor.java:605) [org.eclipse.ui.forms_3.6.100.v20140422-1825.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:366) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:141) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:327) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:869) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:120) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:337) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:258) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:127) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:983) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:662) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1250) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer$1.handleEvent(LazyStackRenderer.java:68) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39) [org.eclipse.equinox.event_1.3.100.v20140115-1647.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81) [org.eclipse.e4.ui.services_1.1.0.v20140328-1925.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374) [org.eclipse.emf.common_2.10.1.v20140901-1043.jar:na]
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:171) [org.eclipse.e4.ui.model.workbench_1.1.0.v20140512-1820.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1251) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1599) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1550) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1520) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1645) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4333) [org.eclipse.ui.workbench.texteditor_3.9.0.v20140411-1521.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:175) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:390) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:331) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:637) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.ErrorWizardPage.performFinish(ErrorWizardPage.java:162) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:468) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.window.Window.open(Window.java:808) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:187) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:202) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40) [org.eclipse.ltk.ui.refactoring_3.7.100.v20140324-1358.jar:na]
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229) [org.eclipse.e4.core.di_1.4.0.v20140414-1837.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132) [org.eclipse.e4.core.contexts_1.3.100.v20140407-1019.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508) [org.eclipse.core.commands_3.6.100.v20140528-1422.jar:na]
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210) [org.eclipse.e4.core.commands_0.10.2.v20140424-2344.jar:na]
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:396) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:474) [org.eclipse.ui.ide_3.10.1.v20140828-0944.jar:na]
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:197) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251) [org.eclipse.jdt.ui_3.10.1.v20140817-1500.jar:na]
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420) [org.eclipse.jface_3.10.1.v20140813-1009.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-02-27 21:44:44,835 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.1.v20140901-1244.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.1.v20140827-1737.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.1.v20140909-1633.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-02-27 21:54:25,108 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:25,111 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\main\resources
+2015-02-27 21:54:25,113 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:25,115 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-model\src\test\resources
+2015-02-27 21:54:30,074 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:30,090 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\main\resources
+2015-02-27 21:54:30,096 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:30,098 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-commons\src\test\resources
+2015-02-27 21:54:35,300 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:35,303 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\main\resources
+2015-02-27 21:54:35,306 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 21:54:35,308 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\habil\Documents\GitHub\bitacora-parent\bitacora-business\src\test\resources
+2015-02-27 22:16:39,592 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:16:40,074 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-commons/src/main/java
+2015-02-27 22:16:40,075 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /curso-commons/src/main/resources
+2015-02-27 22:16:40,076 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-commons/src/test/java
+2015-02-27 22:16:40,143 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-02-27 22:16:40,572 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:16:41,061 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:16:41,217 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:16:41,250 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-27 22:16:41,297 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:16:41,298 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\src\test\resources
+2015-02-27 22:16:42,546 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:16:43,585 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:16:43,587 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:16:43,589 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:16:43,590 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\src\test\resources
+2015-02-27 22:20:20,620 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:20:28,093 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-model/src/main/java
+2015-02-27 22:20:28,094 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /curso-model/src/main/resources
+2015-02-27 22:20:28,094 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-model/src/test/java
+2015-02-27 22:20:28,895 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:20:28,968 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2015-02-27 22:20:31,287 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:20:31,886 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:20:31,889 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-27 22:20:31,933 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:20:31,934 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\src\test\resources
+2015-02-27 22:20:34,421 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:20:35,631 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:20:35,633 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:20:35,634 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:20:35,636 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\src\test\resources
+2015-02-27 22:27:11,667 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\pom.xml.
+2015-02-27 22:27:11,798 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-business/src/main/java
+2015-02-27 22:27:11,799 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /curso-business/src/main/resources
+2015-02-27 22:27:11,800 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-business/src/test/java
+2015-02-27 22:27:11,854 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-02-27 22:27:12,121 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:27:12,123 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:27:12,124 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:27:12,125 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\src\test\resources
+2015-02-27 22:27:12,695 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\pom.xml.
+2015-02-27 22:27:13,219 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:27:13,220 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:27:13,221 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:27:13,222 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\src\test\resources
+2015-02-27 22:28:09,354 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\pom.xml.
+2015-02-27 22:28:10,619 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-test/src/main/java
+2015-02-27 22:28:10,620 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /curso-test/src/test/java
+2015-02-27 22:28:10,621 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /curso-test/src/test/resources
+2015-02-27 22:28:10,872 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-02-27 22:28:11,450 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\pom.xml.
+2015-02-27 22:28:12,176 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:28:12,178 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\src\main\resources
+2015-02-27 22:28:12,182 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:28:12,184 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-02-27 22:28:12,671 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\pom.xml.
+2015-02-27 22:28:18,303 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:28:18,304 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\src\main\resources
+2015-02-27 22:28:18,306 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:28:18,308 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:02,094 [Worker-31] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project curso-parent already exists
+2015-02-27 22:29:02,095 [Worker-31] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project curso-parent already exists
+2015-02-27 22:29:02,096 [Worker-31] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project curso-parent already exists
+2015-02-27 22:29:02,097 [Worker-31] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project curso-parent already exists
+2015-02-27 22:29:02,174 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-parent\pom.xml.
+2015-02-27 22:29:02,251 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:29:02,419 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:29:02,887 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\pom.xml.
+2015-02-27 22:29:02,988 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\pom.xml.
+2015-02-27 22:29:03,541 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 1 sec
+2015-02-27 22:29:03,764 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:03,768 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:03,770 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:03,772 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\src\test\resources
+2015-02-27 22:29:03,839 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:03,841 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:03,843 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:03,844 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\src\test\resources
+2015-02-27 22:29:04,179 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:04,181 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:04,182 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:04,183 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\src\test\resources
+2015-02-27 22:29:04,536 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:04,537 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\src\main\resources
+2015-02-27 22:29:04,538 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:04,539 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:04,686 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-parent:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-parent\pom.xml.
+2015-02-27 22:29:04,843 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-business:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\pom.xml.
+2015-02-27 22:29:04,960 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-commons:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\pom.xml.
+2015-02-27 22:29:05,153 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-test:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\pom.xml.
+2015-02-27 22:29:05,550 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.habil.curso:hb-curso-model:0.0.1-SNAPSHOT @ C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\pom.xml.
+2015-02-27 22:29:06,207 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,209 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:06,212 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,214 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-business\src\test\resources
+2015-02-27 22:29:06,276 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,277 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:06,278 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,279 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-commons\src\test\resources
+2015-02-27 22:29:06,613 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,614 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:29:06,615 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,617 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-model\src\test\resources
+2015-02-27 22:29:06,976 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,977 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Bitacora\hb-curso-parent-master\hb-curso-test\src\main\resources
+2015-02-27 22:29:06,979 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:29:06,980 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:50:56,643 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:50:56,647 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-27 22:50:56,649 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-27 22:50:56,651 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\w\Hb_Curso\habil\src\test\resources

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1425094488279_1" label="bitacora-commons" name="bitacora-commons"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1425094549277_2" label="bitacora-model" name="bitacora-model"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1425096999281_3" label="hb-curso-commons" name="hb-curso-commons">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/curso-commons" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1425097741986_4" label="hb-curso-parent" name="hb-curso-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/curso-parent" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1424221519519_0" label="Window Working Set" name="Aggregate for window 1424221519518"/>
+</workingSetManager>
